@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>Table of referees</h1>
     <RefereesTable />
   </div>
 </template>
@@ -15,4 +14,3 @@ export default {
   }
 };
 </script>
-с
